@@ -1,16 +1,12 @@
-# finance_app
+## Finance App
+Link de referencia:
+https://www.youtube.com/playlist?list=PLtlg0Apoubs_xVS8QxIX51zl0iucEcKyK
 
-A new Flutter project.
+Projeto Github: 
+https://github.com/devkaio/financy_app
 
-## Getting Started
+Figma Modificado:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGhZZGYtbjQwM192eUo1LWtrSjNqQTY5VXJTUXxBQ3Jtc0tuUFU3cDdDTEZsX2JPMnJIXzBXcXVhNjd0dlNnSkRrMkJuTmt5NkJzelpkM3FPbTdlWk56VTZoVDFiVzBGaF9NZlRIZTBfMk5WMVppV19qVDQwTUl1ZFpydnlmaG1ZR0xNMXo4SkVtMzVLLVBlVmNjcw&q=https%3A%2F%2Fwww.figma.com%2Ffile%2FvQzApZhqZFDFp1td5K4asQ%2FFinancy-App&v=QfGEkzJ2WZw
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Figma Original:
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRwVWw4WjMxaHA2TzJ2TWJVOWw0dWUydUJGZ3xBQ3Jtc0ttcjg1NHBFa0Y2aHp4QTREbTVqMl9IMEFsTUE0eDlnSkxqQ3Q5eXg1Mk1aZmdmVG9TWUR2T0FMYXl1eFB2YTR3R3lWZ0IyWGhmWk95Rmg1cEx2Mk95dmwybFQ3V0lKRkFScHFSZ2p3VWRzdXlLZGJtQQ&q=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1080339303735258826&v=QfGEkzJ2WZw
